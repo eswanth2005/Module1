@@ -29,3 +29,5 @@ print("Imaginary part:", x.imag)
 ![image](https://github.com/user-attachments/assets/ea68e9bc-a062-46df-83ee-64de50e1f293)
 
 ## Result
+Thus the program to read two integers, create a complex number using them and printing the complex number along with its real and imaginary parts
+has been executed successfully
