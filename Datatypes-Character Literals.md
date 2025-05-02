@@ -9,8 +9,8 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 
 ## 🧾 Program
 ```
-print('T')  # Step 1: Print 'T'
-print('a')  # Step 2: Print 'a'
+print('T') 
+print('a') 
 
 ```
 ## Output
