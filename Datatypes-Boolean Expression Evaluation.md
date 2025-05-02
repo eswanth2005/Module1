@@ -29,8 +29,7 @@ print("d:", d)
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/cec79aa2-ce0b-4d0f-85ee-28a0a97fe78d)
-
+![image](https://github.com/user-attachments/assets/ca95e022-030d-4266-81a4-66300e6a0819)
 
 ## Result
 Thus, the program to evaluate and print the results of boolean and arithmetic expressions involving `True` and `False` has been executed 
