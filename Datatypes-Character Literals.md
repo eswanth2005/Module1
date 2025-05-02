@@ -17,5 +17,7 @@ print('a')
 ![image](https://github.com/user-attachments/assets/b721634f-3679-4f1d-bfdb-38e1f4493e7e)
 
 
+
+
 ## Result
 Thus the program to print the character `'T'` and `'a'` using character literals has been executed successfully.
